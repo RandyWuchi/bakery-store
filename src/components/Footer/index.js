@@ -35,7 +35,7 @@ const Footer = () => {
                 <FaInstagram />
               </SocialIconLink>
               <SocialIconLink
-                href='/'
+                href='https://twitter.com/RandyWuchi'
                 target='_blank'
                 aria-label='Twitter'
                 rel='noopener noreferrer'
@@ -43,7 +43,7 @@ const Footer = () => {
                 <FaTwitter />
               </SocialIconLink>
               <SocialIconLink
-                href='/'
+                href='https://github.com/RandyWuchi'
                 target='_blank'
                 aria-label='Github'
                 rel='noopener noreferrer'
